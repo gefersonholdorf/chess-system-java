@@ -22,6 +22,7 @@ Sistema desenvolvido na linguagem Java, aplicando os conhecimentos aprendidos at
 
 ## Digrama de Classe
 
-(image.png)
+![image](https://github.com/gefersonholdorf/chess-system-java/assets/68699314/07d1f995-9229-44df-aa85-c204e421fa34)
+
 
 
